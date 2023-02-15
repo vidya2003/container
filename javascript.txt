@@ -1,0 +1,162 @@
+JAVA SCRIPT:---
+
+
+*Java script is a case senstive.(there is difference meaning in upper case and lower case)(here we are using ascii values)
+*html is static and dynamic.
+*perform some operation on web page,converting static page into responsible page.
+*other name:ECMA SCRIPT(European Computer Manufacturing Association).
+*all the logics done in java are done in java script also.
+*If we are following any syntax and logic then that is programming language,if we are not following any of these then it is called as Scripting language.
+*Java Script Scripting language.
+*3 types of popupboxes:Prompt(three inputs userdefined input and ok or cancel) ,alert(giving alert popupbox will appear,single input),(,confirm(two inputs either ok or cancel).(they are pseudo codes).
+*popupboxes:
+
+*types of print:print statement and print methods.
+*==check for condition.
+*===check for data type.
+*2 types of javascipt:internal and external.
+*2 types of internal inside head section and inside body section.
+*print statements:cosole.log(displayed on console),document.rightln,document.right(directly displayed in browser)
+function abc(a,b)
+{
+#
+}
+types of function(fun def: block of statement when ever it is called it perform  certain operation)
+named: function with name.
+anonomous   (function with out name) 
+iife                }
+arrow:entire function in single line.
+
+var :- var a=10;(initialization)(4 )
+var a=20;(declaration)
+
+let:-let a=10;(intialization)
+a=20;(reinitialization)
+let a=30;(not possible)
+
+const:- const a=10;
+a=20;(not possible)
+const a=30;(not possible)
+array methods
+filter 
+map
+reduce
+
+
+Advantages of having function
+*code reuseabillity(same function can use n number of times)
+*madularity(modifing existing code)
+
+iife function(immediately  invoked function expression)( java script function that runs as soon as it is defined).
+Arrow function :disadvantage we can have only one return type.
+
+
+DOM(document object model)(over ride or insert new property(value)).
+ <html>(root)
+in html head and body
+in head link:href/ref
+in link css
+
+in body img :src
+in img image   
+
+document.getelement by id.(we will select any tag which are named in id format and over ride the properties)
+--------------||--------- by class name.
+--------------||----------by tag name.
+--------------||-----------by queery.
+--------------||----------by all query set.
+
+
+var a=[1,"1",a,10,43,"D")]
+pop
+push
+shift
+unshift
+sort
+length
+slice
+splice
+
+form action:predefined one is submit and reset
+submit link to other link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
